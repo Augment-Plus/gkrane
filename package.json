@@ -1,12 +1,15 @@
 {
   "name": "gkrane",
-  "version": "1.0.2",
-  "description": "An  Enterprise JavaScript Library",
+  "version": "1.0.0",
   "main": "index.js",
-  "author": "Genesis Krane & Augment Chinedu",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "private": false,
-  "dependencies": {
-    "firebase": "^12.1.0"
+  "description": "",
+  "devDependencies": {
+    "vite": "^6.3.5"
   }
 }
