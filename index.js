@@ -1,2 +1,3 @@
-const name = "Ade";
+const name = "Genesis Krane";
+
 export default { name };
