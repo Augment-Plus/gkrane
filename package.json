@@ -3,10 +3,7 @@
   "version": "1.0.5",
   "description": "An  Enterprise JavaScript Library",
   "main": "index.js",
-  "author": "Genesis Krane & Augment Chinedu",
-  "license": "ISC",
-  "private": false,
-  "dependencies": {
-    "firebase": "^12.1.0"
-  }
+  "keywords": [],
+  "author": "Genesis Krane & Augment Plus",
+  "license": "ISC"
 }
