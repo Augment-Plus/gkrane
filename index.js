@@ -1,3 +1,3 @@
 const name = "Genesis Krane";
 
-export default { name };
+module.exports = name;

@@ -1,3 +1,4 @@
-const auth = require("./auth");
+const auth = require("../");
 
+console.log(auth);
 module.exports = { auth };
